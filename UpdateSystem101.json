@@ -1,8 +1,8 @@
 {
-  "latest_version": "0.2.1",
-	"Latest Snapshot": 1,
-	"critical": false,
-	"legal": false,
-  "download_url": "https://github.com/...",
-	"release_notes": ""
+    "latest_version": "0.2.1",
+    "latest_snapshot": true,
+    "critical": false,
+    "legal": false,
+    "download_url": "https://github.com/...",
+    "release_notes": ""
 }
